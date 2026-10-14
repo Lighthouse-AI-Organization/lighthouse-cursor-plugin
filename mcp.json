@@ -4,7 +4,13 @@
       "url": "https://api.lighthouseai.co/public-api/mcp",
       "auth": {
         "CLIENT_ID": "cRrGIofgpTf8s0DM",
-        "scopes": ["openid", "profile", "email", "offline_access"]
+        "scopes": [
+          "openid",
+          "profile",
+          "email",
+          "user:org:read",
+          "offline_access"
+        ]
       }
     }
   }
