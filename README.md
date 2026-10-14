@@ -12,7 +12,7 @@ This plugin connects Cursor to the Lighthouse MCP server, so the agent can work 
 
 ## Sign in
 
-The first time Cursor connects, it opens the Lighthouse sign-in page in your browser. Sign in, pick one organization and approve the connection. The agent acts as you: it can only do what your Lighthouse role allows, and a new connection starts with read access. You can disconnect it any time from Settings, API & Agents in Lighthouse.
+The first time Cursor connects, it opens the Lighthouse sign-in page in your browser. Sign in, pick one organization and approve the connection. The agent acts as you: it can only do what your Lighthouse role allows. You can disconnect it any time from Settings, API & Agents in Lighthouse.
 
 You need a Lighthouse account. [Start for free](https://lighthouseai.co).
 
@@ -20,7 +20,7 @@ You need a Lighthouse account. [Start for free](https://lighthouseai.co).
 
 - [MCP server docs](https://lighthouseai.co/docs/mcp)
 - [Privacy policy](https://lighthouseai.co/privacy-policy)
-- Support: admin@lighthouseai.co
+- [Support](https://lighthouseai.co/support)
 
 ## License
 
