@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "lighthouse": {
+      "url": "https://api.lighthouseai.co/public-api/mcp",
+      "auth": {
+        "CLIENT_ID": "cRrGIofgpTf8s0DM",
+        "scopes": ["openid", "profile", "email", "offline_access"]
+      }
+    }
+  }
+}

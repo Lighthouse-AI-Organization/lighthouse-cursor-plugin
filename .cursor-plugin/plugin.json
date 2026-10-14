@@ -1,0 +1,15 @@
+{
+  "name": "lighthouse",
+  "displayName": "Lighthouse",
+  "version": "1.0.0",
+  "description": "Monitor business metrics from your data warehouse and get Slack alerts when they move. Read, test and manage your Lighthouse metrics from Cursor.",
+  "author": {
+    "name": "Lighthouse",
+    "email": "admin@lighthouseai.co"
+  },
+  "homepage": "https://lighthouseai.co/docs/mcp",
+  "repository": "https://github.com/Lighthouse-AI-Organization/lighthouse-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["lighthouse", "metrics", "monitoring", "alerts", "data warehouse", "snowflake", "bigquery", "mcp"],
+  "logo": "assets/logo.png"
+}
